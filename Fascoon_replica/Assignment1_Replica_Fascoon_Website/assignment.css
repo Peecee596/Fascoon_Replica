@@ -264,7 +264,18 @@ box-sizing: border-box;
 .stud5:hover{
     transform: scale(1.5);
 }
-
+.test1{
+    margin-left:200px;
+}
+.test2{
+    font-size: 35px;
+    color:navy;
+    float: left;
+    margin-left:20px;
+}
+.test2:hover{
+    color:blue;
+}
 .rightexp{
     /* background-color: springgreen; */
     padding-top:105px;
